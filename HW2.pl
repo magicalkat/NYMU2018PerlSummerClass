@@ -35,7 +35,7 @@ print "G=",$numATGC[2],"\t","T=",$numATGC[3],"\t","nonATGC=",$num_nonATGC,"\n";
 $total=0;
 @bases = split //,$test1[3];
 foreach my $i(0..int(length($test1[3]))-1){
-    $bases[$i]=ord($bases[$i])-64;
+    $bases[$i]=ord($bases[$i]);
     $total+=$bases[$i];
 }
 
@@ -50,12 +50,12 @@ print "Max=",$sortedBases[-1],"\n";
 print "Min=",$sortedBases[0],"\n";
 #dev
 $dev=0;
-if(length(@bases) eq 1){return 0;}
+if(scalar(@bases) eq 1){return 0;}
 else{
-    foreach my $i(0..length(@bases)){
+    foreach my $i(0..int(scalar(@bases))-1){
         $dev+=($mean-$bases[$i])**2;
     }
-    $dev=($dev/(length(@bases)-1))**0.5;
+    $dev=($dev/(scalar(@bases)))**0.5;
 }
 print "dev=",$dev;
 
