@@ -1,0 +1,1442 @@
+LOCUS       NM_001172705            4028 bp    mRNA    linear   PRI 05-FEB-2016
+DEFINITION  Homo sapiens eukaryotic translation initiation factor 4 gamma 2
+            (EIF4G2), transcript variant 3, mRNA.
+ACCESSION   NM_001172705 XM_005252819
+VERSION     NM_001172705.1  GI:289577115
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4028)
+  AUTHORS   Liberman N, Gandin V, Svitkin YV, David M, Virgili G, Jaramillo M,
+            Holcik M, Nagar B, Kimchi A and Sonenberg N.
+  TITLE     DAP5 associates with eIF2beta and eIF4AI to promote Internal
+            Ribosome Entry Site driven translation
+  JOURNAL   Nucleic Acids Res. 43 (7), 3764-3775 (2015)
+   PUBMED   25779044
+  REMARK    GeneRIF: findings provide the first mechanistic insights into the
+            function of DAP5 as a selective regulator of cap-independent
+            translation
+REFERENCE   2  (bases 1 to 4028)
+  AUTHORS   Katsogiannou M, Andrieu C, Baylot V, Baudot A, Dusetti NJ, Gayet O,
+            Finetti P, Garrido C, Birnbaum D, Bertucci F, Brun C and Rocchi P.
+  TITLE     The functional landscape of Hsp27 reveals new cellular processes
+            such as DNA repair and alternative splicing and proposes novel
+            anticancer targets
+  JOURNAL   Mol. Cell Proteomics 13 (12), 3585-3601 (2014)
+   PUBMED   25277244
+REFERENCE   3  (bases 1 to 4028)
+  AUTHORS   Mazan-Mamczarz K, Zhao XF, Dai B, Steinhardt JJ, Peroutka RJ, Berk
+            KL, Landon AL, Sadowska M, Zhang Y, Lehrmann E, Becker KG,
+            Shaknovich R, Liu Z and Gartenhaus RB.
+  TITLE     Down-regulation of eIF4GII by miR-520c-3p represses diffuse large B
+            cell lymphoma development
+  JOURNAL   PLoS Genet. 10 (1), E1004105 (2014)
+   PUBMED   24497838
+  REMARK    GeneRIF: Our results provide evidence that the tumor suppressor
+            effect of miR-520c-3p is mediated through repression of translation
+            while inducing senescence and that eIF4GII is a key effector of
+            this anti-tumor activity.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 4028)
+  AUTHORS   Weingarten-Gabbay S, Khan D, Liberman N, Yoffe Y, Bialik S, Das S,
+            Oren M and Kimchi A.
+  TITLE     The translation initiation factor DAP5 promotes IRES-driven
+            translation of p53 mRNA
+  JOURNAL   Oncogene 33 (5), 611-618 (2014)
+   PUBMED   23318444
+  REMARK    GeneRIF: DAP5, a translation initiation factor shown to positively
+            regulate the translation of various internal ribosome entry sites
+            containing mRNAs, promotes internal ribosome entry site-driven
+            translation of p53 mRNA.
+REFERENCE   5  (bases 1 to 4028)
+  AUTHORS   Takahashi K, Maruyama M, Tokuzawa Y, Murakami M, Oda Y, Yoshikane
+            N, Makabe KW, Ichisaka T and Yamanaka S.
+  TITLE     Evolutionarily conserved non-AUG translation initiation in
+            NAT1/p97/DAP5 (EIF4G2)
+  JOURNAL   Genomics 85 (3), 360-371 (2005)
+   PUBMED   15718103
+  REMARK    GeneRIF: Exclusive use of a GUG translation initiation codon is
+            conserved in human, chicken, Xenopus, and zebrafish.
+REFERENCE   6  (bases 1 to 4028)
+  AUTHORS   Pyronnet S, Imataka H, Gingras AC, Fukunaga R, Hunter T and
+            Sonenberg N.
+  TITLE     Human eukaryotic translation initiation factor 4G (eIF4G) recruits
+            mnk1 to phosphorylate eIF4E
+  JOURNAL   EMBO J. 18 (1), 270-279 (1999)
+   PUBMED   9878069
+REFERENCE   7  (bases 1 to 4028)
+  AUTHORS   Imataka H and Sonenberg N.
+  TITLE     Human eukaryotic translation initiation factor 4G (eIF4G) possesses
+            two separate and independent binding sites for eIF4A
+  JOURNAL   Mol. Cell. Biol. 17 (12), 6940-6947 (1997)
+   PUBMED   9372926
+REFERENCE   8  (bases 1 to 4028)
+  AUTHORS   Levy-Strumpf N, Deiss LP, Berissi H and Kimchi A.
+  TITLE     DAP-5, a novel homolog of eukaryotic translation initiation factor
+            4G isolated as a putative modulator of gamma interferon-induced
+            programmed cell death
+  JOURNAL   Mol. Cell. Biol. 17 (3), 1615-1625 (1997)
+   PUBMED   9032289
+REFERENCE   9  (bases 1 to 4028)
+  AUTHORS   Imataka H, Olsen HS and Sonenberg N.
+  TITLE     A new translational regulator with homology to eukaryotic
+            translation initiation factor 4G
+  JOURNAL   EMBO J. 16 (4), 817-825 (1997)
+   PUBMED   9049310
+  REMARK    GeneRIF: translation starts exclusively at a non-AUG translation
+            initiation codon (GUG).
+REFERENCE   10 (bases 1 to 4028)
+  AUTHORS   Shaughnessy JD Jr, Jenkins NA and Copeland NG.
+  TITLE     cDNA cloning, expression analysis, and chromosomal localization of
+            a gene with high homology to wheat eIF-(iso)4F and mammalian eIF-4G
+  JOURNAL   Genomics 39 (2), 192-197 (1997)
+   PUBMED   9027506
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DB231980.1, BC065276.1,
+            DB272352.1 and AI362365.1.
+            On Aug 31, 2013 this sequence version replaced gi:530395127.
+            
+            Summary: Translation initiation is mediated by specific recognition
+            of the cap structure by eukaryotic translation initiation factor 4F
+            (eIF4F), which is a cap binding protein complex that consists of
+            three subunits: eIF4A, eIF4E and eIF4G. The protein encoded by this
+            gene shares similarity with the C-terminal region of eIF4G that
+            contains the binding sites for eIF4A and eIF3; eIF4G, in addition,
+            contains a binding site for eIF4E at the N-terminus. Unlike eIF4G,
+            which supports cap-dependent and independent translation, this gene
+            product functions as a general repressor of translation by forming
+            translationally inactive complexes. In vitro and in vivo studies
+            indicate that translation of this mRNA initiates exclusively at a
+            non-AUG (GUG) codon. Alternatively spliced transcript variants
+            encoding different isoforms of this gene have been described.
+            [provided by RefSeq, Jul 2008].
+            
+            Transcript Variant: This variant (3) differs in the 5' UTR,
+            compared to variant 1. Both variants 1 and 3 encode the same
+            isoform (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC065276.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            non-AUG initiation codon :: PMID: 9049310, 15718103
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-23                DB231980.1         1-23
+            24-2105             BC065276.1         1-2082
+            2106-2645           DB272352.1         11-550
+            2646-4024           BC065276.1         2623-4001
+            4025-4028           AI362365.1         12-15               c
+FEATURES             Location/Qualifiers
+     source          1..4028
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11p15"
+     gene            1..4028
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /note="eukaryotic translation initiation factor 4 gamma 2"
+                     /db_xref="GeneID:1982"
+                     /db_xref="HGNC:HGNC:3297"
+                     /db_xref="MIM:602325"
+     exon            1..448
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    322..324
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /note="upstream in-frame stop codon"
+     exon            449..575
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     STS             511..733
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /standard_name="Eif4g2"
+                     /db_xref="UniSTS:474697"
+     CDS             535..3258
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /note="isoform 1 is encoded by transcript variant 3;
+                     non-AUG (GUG) translation initiation codon; eIF-4-gamma 2;
+                     eukaryotic translation initiation factor 4G-like 1;
+                     death-associated protein 5; aging-associated protein 1;
+                     DAP-5; eIF4G 2; eIF-4G 2; eukaryotic translation
+                     initiation factor 4 gamma, 2"
+                     /codon_start=1
+                     /transl_except=(pos:535..537,aa:Met)
+                     /product="eukaryotic translation initiation factor 4 gamma
+                     2 isoform 1"
+                     /protein_id="NP_001166176.1"
+                     /db_xref="GI:289577116"
+                     /db_xref="CCDS:CCDS31428.1"
+                     /db_xref="GeneID:1982"
+                     /db_xref="HGNC:HGNC:3297"
+                     /db_xref="MIM:602325"
+                     /translation="MESAIAEGGASRFSASSGGGGSRGAPQHYPKTAGNSEFLGKTPG
+                     QNAQKWIPARSTRRDDNSAANNSANEKERHDAIFRKVRGILNKLTPEKFDKLCLELLN
+                     VGVESKLILKGVILLIVDKALEEPKYSSLYAQLCLRLAEDAPNFDGPAAEGQPGQKQS
+                     TTFRRLLISKLQDEFENRTRNVDVYDKRENPLLPEEEEQRAIAKIKMLGNIKFIGELG
+                     KLDLIHESILHKCIKTLLEKKKRVQLKDMGEDLECLCQIMRTVGPRLDHERAKSLMDQ
+                     YFARMCSLMLSKELPARIRFLLQDTVELREHHWVPRKAFLDNGPKTINQIRQDAVKDL
+                     GVFIPAPMAQGMRSDFFLEGPFMPPRMKMDRDPLGGLADMFGQMPGSGIGTGPGVIQD
+                     RFSPTMGRHRSNQLFNGHGGHIMPPTQSQFGEMGGKFMKSQGLSQLYHNQSQGLLSQL
+                     QGQSKDMPPRFSKKGQLNADEISLRPAQSFLMNKNQVPKLQPQITMIPPSAQPPRTQT
+                     PPLGQTPQLGLKTNPPLIQEKPAKTSKKPPPSKEELLKLTETVVTEYLNSGNANEAVN
+                     GVREMRAPKHFLPEMLSKVIILSLDRSDEDKEKASSLISLLKQEGIATSDNFMQAFLN
+                     VLDQCPKLEVDIPLVKSYLAQFAARAIISELVSISELAQPLESGTHFPLFLLCLQQLA
+                     KLQDREWLTELFQQSKVNMQKMLPEIDQNKDRMLEILEGKGLSFLFPLLKLEKELLKQ
+                     IKLDPSPQTIYKWIKDNISPKLHVDKGFVNILMTSFLQYISSEVNPPSDETDSSSAPS
+                     KEQLEQEKQLLLSFKPVMQKFLHDHVDLQVSALYALQVHCYNSNFPKGMLLRFFVHFY
+                     DMEIIEEEAFLAWKEDITQEFPGKGKALFQVNQWLTWLETAEEEESEEEAD"
+     misc_feature    535..537
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylmethionine. {ECO:0000244|PubMed:19413330,
+                     ECO:0000244|PubMed:22223895, ECO:0000244|PubMed:22814378,
+                     ECO:0000269|PubMed:12665801}; propagated from
+                     UniProtKB/Swiss-Prot (P78344.1); acetylation site"
+     misc_feature    1717..1719
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:20068231};
+                     propagated from UniProtKB/Swiss-Prot (P78344.1);
+                     phosphorylation site"
+     misc_feature    2056..2058
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:19690332,
+                     ECO:0000244|PubMed:24275569}; propagated from
+                     UniProtKB/Swiss-Prot (P78344.1); phosphorylation site"
+     misc_feature    2074..2076
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:18669648};
+                     propagated from UniProtKB/Swiss-Prot (P78344.1);
+                     phosphorylation site"
+     misc_feature    3238..3240
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:20068231,
+                     ECO:0000244|PubMed:21406692}; propagated from
+                     UniProtKB/Swiss-Prot (P78344.1); phosphorylation site"
+     exon            576..641
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            642..782
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            783..885
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            886..1017
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1018..1084
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1085..1236
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1237..1347
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1348..1431
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1432..1530
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1531..1672
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1581..2059
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /standard_name="MARC_8851-8852:992359168:1"
+                     /db_xref="UniSTS:269950"
+     exon            1673..1833
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1834..1947
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1948..2073
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     STS             2039..2525
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /standard_name="MARC_8853-8854:992364778:1"
+                     /db_xref="UniSTS:269951"
+     exon            2074..2178
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2179..2394
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2395..2653
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2654..2858
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2859..3070
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3071..3192
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3193..4028
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     STS             3838..4016
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /standard_name="D11S3958"
+                     /db_xref="UniSTS:153674"
+     regulatory      4000..4005
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+     polyA_site      4020
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+     polyA_site      4028
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+ORIGIN      
+        1 acttccctaa cttgcgcctg ggtgggagga atgctccgct cttttgttcc caggaaggga
+       61 aaaacggggc ggaggttcct gctgccatgt tgtggccctg gtcttccgcc tgcaagtgct
+      121 agtcctgtac acccggcccc ctctcgcgcg tctttccacg agctctccac ggggaggagg
+      181 cgaaagggtg gacaggggaa aactgctgaa gagctttcgg agagacctca tctagtcgct
+      241 ggcctcgtca aggcagtaaa aattcctagg gcagacattt tccacgtgat gttgctcgtg
+      301 tctgtagtta gacttttcta ttgatctcag tgctcagttt taaagatagt agaatgtggc
+      361 tttttcaaaa gattcgttct gagccgttta aaatgctctt gtgttctacg aagtctcttt
+      421 gcatccttga acaccgggga atttccaggt atttcatttc tcctgtcccc tcccctcccc
+      481 accccatcta ttaatattat tcttttgaag attcttcgtt gtcaagccgc caaagtggag
+      541 agtgcgattg cagaaggggg tgcttctcgt ttcagtgctt cttcgggcgg aggaggaagt
+      601 aggggtgcac ctcagcacta tcccaagact gctggcaaca gcgagttcct ggggaaaacc
+      661 ccagggcaaa acgctcagaa atggattcct gcacgaagca ctagacgaga tgacaactcc
+      721 gcagcaaaca actccgcaaa cgaaaaagaa cgacatgatg caatcttcag gaaagtaaga
+      781 ggcatactaa ataagcttac tcctgaaaag tttgacaagc tatgccttga gctcctcaat
+      841 gtgggtgtag agtctaaact catccttaaa ggggtcatac tgctgattgt ggacaaagcc
+      901 ctagaagagc caaagtatag ctcactgtat gctcagctat gtctgcgatt ggcagaagat
+      961 gcaccaaact ttgatggccc agcagcagag ggtcaaccag gacagaagca aagcaccaca
+     1021 ttcagacgcc tcctaatttc caaattacaa gatgaatttg aaaaccgaac tagaaatgtt
+     1081 gatgtctatg ataagcgtga aaatcccctc ctccccgagg aggaggaaca gagagccatt
+     1141 gctaagatca agatgttggg aaacatcaaa ttcattggag agcttggcaa gcttgatctt
+     1201 attcacgaat ctatccttca taagtgcatc aaaacacttt tggaaaagaa gaagagagtc
+     1261 caactcaaag atatgggaga ggatttggag tgcctctgtc agataatgag gacagtggga
+     1321 cctagattag accatgaacg agccaagtcc ttaatggatc agtactttgc ccgaatgtgc
+     1381 tccttgatgt taagtaagga attgccagca aggattcgtt tcctgctgca ggataccgta
+     1441 gagttgcgag aacaccattg ggttcctcgc aaggcttttc ttgacaatgg accaaagacg
+     1501 atcaatcaaa ttcgtcaaga tgcagtaaaa gatctagggg tgtttattcc tgctcctatg
+     1561 gctcaaggga tgagaagtga cttctttctg gagggaccgt tcatgccacc caggatgaaa
+     1621 atggataggg acccacttgg aggacttgct gatatgtttg gacaaatgcc aggtagcgga
+     1681 attggtactg gtccaggagt tatccaggat agattttcac ccaccatggg acgtcatcgt
+     1741 tcaaatcaac tcttcaatgg ccatggggga cacatcatgc ctcccacaca atcgcagttt
+     1801 ggagagatgg gaggcaagtt tatgaaaagc caggggctaa gccagctcta ccataaccag
+     1861 agtcagggac tcttatccca gctgcaagga cagtcgaagg atatgccacc tcggttttct
+     1921 aagaaaggac agcttaatgc agatgagatt agcctgaggc ctgctcagtc gttcctaatg
+     1981 aataaaaatc aagtgccaaa gcttcagccc cagataacta tgattcctcc tagtgcacaa
+     2041 ccaccacgca ctcaaacacc acctctggga cagacacctc agcttggtct caaaactaat
+     2101 ccaccgctta tccaggaaaa gcctgccaag accagcaaaa agccaccacc gtcaaaggaa
+     2161 gaactcctta aactaactga aactgttgtg actgaatatc taaatagtgg aaatgcaaat
+     2221 gaggctgtca atggtgtaag agaaatgagg gctcctaaac actttcttcc tgagatgtta
+     2281 agcaaagtaa tcatcctgtc actagataga agcgatgaag ataaagaaaa agcaagttct
+     2341 ttgatcagtt tactcaaaca ggaagggata gccacaagtg acaacttcat gcaggctttc
+     2401 ctgaatgtat tggaccagtg tcccaaactg gaggttgaca tccctttggt gaaatcctat
+     2461 ttagcacagt ttgcagctcg tgccatcatt tcagagctgg tgagcatttc agaactagct
+     2521 caaccactag aaagtggcac ccattttcct ctcttcctac tttgtcttca gcagttagct
+     2581 aaattacaag atcgagaatg gttaacagaa ctttttcaac aaagcaaggt caatatgcag
+     2641 aaaatgctcc cagaaattga tcagaataag gaccgcatgt tggagatttt ggaaggaaag
+     2701 ggactgagtt tcttattccc actcctcaaa ttggagaagg aactgttgaa gcaaataaag
+     2761 ttggatccat cccctcaaac catatataaa tggattaaag ataacatctc tcccaaactt
+     2821 catgtagata aaggatttgt gaacatctta atgactagct tcttacagta catttctagt
+     2881 gaagtaaacc cccccagcga tgaaacagat tcatcctctg ctccttccaa agaacagtta
+     2941 gagcaggaaa aacaactact actatctttc aagccagtaa tgcagaaatt tcttcatgat
+     3001 cacgttgatc tacaagtcag tgccctgtat gctctccagg tgcactgcta taacagcaac
+     3061 ttcccaaaag gcatgttact tcgctttttt gtgcacttct atgacatgga aattattgaa
+     3121 gaagaagctt tcttggcttg gaaagaagat ataacccaag agtttccggg aaaaggcaag
+     3181 gctttgttcc aggtgaatca gtggctaacc tggttagaaa ctgctgaaga agaagaatca
+     3241 gaggaagaag ctgactaaag aaccagccaa agccttaaat tgtgcaaaac atactgttgc
+     3301 tatgatgtaa ctgcatttga cctaaccact gcgaaaattc attccgctgt aatgttttca
+     3361 caatatttaa agcagaagca cgtcagttag gatttccttc tgcataaggt ttttttgtag
+     3421 tgtaatgtct taatcatagt ctaccatcaa atattttagg agtatcttta atgtttagat
+     3481 agtatattag cagcatgcaa taattacatc ataagttctc aagcagaggc agtctattgc
+     3541 aaggaccttc tttgctgcca gttatcatag gctgttttaa gttagaaaac tgaatagcaa
+     3601 cactgaatac tgtagaaatg cactttgctc agtaatactt gagttgttgc aatatttgat
+     3661 tatccatttg gttgttacag aaaaattctt aactgtaatt gatggttgtt gccgtaatag
+     3721 tatattgcct gtatttctac ctctagtaat gggctttatg tgctagattt taatatcctt
+     3781 gagcctgggc aagtgcacaa gtctttttaa aagaaacatg gtttacttgc acaaaactga
+     3841 tcagttttga gagatcgtta atgcccttga agtggttttt gtgggtgtga aacaaatggt
+     3901 gagaatttga attggtccct cctattatag tattgaaatt aagtctactt aatttatcaa
+     3961 gtcatgttca tgccctgatt ttatatactt gtatctatca ataaacattg tgatacttga
+     4021 tgtagtga
+//
+
+LOCUS       NM_001418               3911 bp    mRNA    linear   PRI 05-FEB-2016
+DEFINITION  Homo sapiens eukaryotic translation initiation factor 4 gamma 2
+            (EIF4G2), transcript variant 1, mRNA.
+ACCESSION   NM_001418
+VERSION     NM_001418.3  GI:111494227
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3911)
+  AUTHORS   Liberman N, Gandin V, Svitkin YV, David M, Virgili G, Jaramillo M,
+            Holcik M, Nagar B, Kimchi A and Sonenberg N.
+  TITLE     DAP5 associates with eIF2beta and eIF4AI to promote Internal
+            Ribosome Entry Site driven translation
+  JOURNAL   Nucleic Acids Res. 43 (7), 3764-3775 (2015)
+   PUBMED   25779044
+  REMARK    GeneRIF: findings provide the first mechanistic insights into the
+            function of DAP5 as a selective regulator of cap-independent
+            translation
+REFERENCE   2  (bases 1 to 3911)
+  AUTHORS   Katsogiannou M, Andrieu C, Baylot V, Baudot A, Dusetti NJ, Gayet O,
+            Finetti P, Garrido C, Birnbaum D, Bertucci F, Brun C and Rocchi P.
+  TITLE     The functional landscape of Hsp27 reveals new cellular processes
+            such as DNA repair and alternative splicing and proposes novel
+            anticancer targets
+  JOURNAL   Mol. Cell Proteomics 13 (12), 3585-3601 (2014)
+   PUBMED   25277244
+REFERENCE   3  (bases 1 to 3911)
+  AUTHORS   Mazan-Mamczarz K, Zhao XF, Dai B, Steinhardt JJ, Peroutka RJ, Berk
+            KL, Landon AL, Sadowska M, Zhang Y, Lehrmann E, Becker KG,
+            Shaknovich R, Liu Z and Gartenhaus RB.
+  TITLE     Down-regulation of eIF4GII by miR-520c-3p represses diffuse large B
+            cell lymphoma development
+  JOURNAL   PLoS Genet. 10 (1), E1004105 (2014)
+   PUBMED   24497838
+  REMARK    GeneRIF: Our results provide evidence that the tumor suppressor
+            effect of miR-520c-3p is mediated through repression of translation
+            while inducing senescence and that eIF4GII is a key effector of
+            this anti-tumor activity.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 3911)
+  AUTHORS   Weingarten-Gabbay S, Khan D, Liberman N, Yoffe Y, Bialik S, Das S,
+            Oren M and Kimchi A.
+  TITLE     The translation initiation factor DAP5 promotes IRES-driven
+            translation of p53 mRNA
+  JOURNAL   Oncogene 33 (5), 611-618 (2014)
+   PUBMED   23318444
+  REMARK    GeneRIF: DAP5, a translation initiation factor shown to positively
+            regulate the translation of various internal ribosome entry sites
+            containing mRNAs, promotes internal ribosome entry site-driven
+            translation of p53 mRNA.
+REFERENCE   5  (bases 1 to 3911)
+  AUTHORS   Takahashi K, Maruyama M, Tokuzawa Y, Murakami M, Oda Y, Yoshikane
+            N, Makabe KW, Ichisaka T and Yamanaka S.
+  TITLE     Evolutionarily conserved non-AUG translation initiation in
+            NAT1/p97/DAP5 (EIF4G2)
+  JOURNAL   Genomics 85 (3), 360-371 (2005)
+   PUBMED   15718103
+  REMARK    GeneRIF: Exclusive use of a GUG translation initiation codon is
+            conserved in human, chicken, Xenopus, and zebrafish.
+REFERENCE   6  (bases 1 to 3911)
+  AUTHORS   Pyronnet S, Imataka H, Gingras AC, Fukunaga R, Hunter T and
+            Sonenberg N.
+  TITLE     Human eukaryotic translation initiation factor 4G (eIF4G) recruits
+            mnk1 to phosphorylate eIF4E
+  JOURNAL   EMBO J. 18 (1), 270-279 (1999)
+   PUBMED   9878069
+REFERENCE   7  (bases 1 to 3911)
+  AUTHORS   Imataka H and Sonenberg N.
+  TITLE     Human eukaryotic translation initiation factor 4G (eIF4G) possesses
+            two separate and independent binding sites for eIF4A
+  JOURNAL   Mol. Cell. Biol. 17 (12), 6940-6947 (1997)
+   PUBMED   9372926
+REFERENCE   8  (bases 1 to 3911)
+  AUTHORS   Levy-Strumpf N, Deiss LP, Berissi H and Kimchi A.
+  TITLE     DAP-5, a novel homolog of eukaryotic translation initiation factor
+            4G isolated as a putative modulator of gamma interferon-induced
+            programmed cell death
+  JOURNAL   Mol. Cell. Biol. 17 (3), 1615-1625 (1997)
+   PUBMED   9032289
+REFERENCE   9  (bases 1 to 3911)
+  AUTHORS   Imataka H, Olsen HS and Sonenberg N.
+  TITLE     A new translational regulator with homology to eukaryotic
+            translation initiation factor 4G
+  JOURNAL   EMBO J. 16 (4), 817-825 (1997)
+   PUBMED   9049310
+  REMARK    GeneRIF: translation starts exclusively at a non-AUG translation
+            initiation codon (GUG).
+REFERENCE   10 (bases 1 to 3911)
+  AUTHORS   Shaughnessy JD Jr, Jenkins NA and Copeland NG.
+  TITLE     cDNA cloning, expression analysis, and chromosomal localization of
+            a gene with high homology to wheat eIF-(iso)4F and mammalian eIF-4G
+  JOURNAL   Genomics 39 (2), 192-197 (1997)
+   PUBMED   9027506
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DB072494.1, AK223548.1,
+            DB272352.1 and AI362365.1.
+            On Aug 8, 2006 this sequence version replaced gi:110630016.
+            
+            Summary: Translation initiation is mediated by specific recognition
+            of the cap structure by eukaryotic translation initiation factor 4F
+            (eIF4F), which is a cap binding protein complex that consists of
+            three subunits: eIF4A, eIF4E and eIF4G. The protein encoded by this
+            gene shares similarity with the C-terminal region of eIF4G that
+            contains the binding sites for eIF4A and eIF3; eIF4G, in addition,
+            contains a binding site for eIF4E at the N-terminus. Unlike eIF4G,
+            which supports cap-dependent and independent translation, this gene
+            product functions as a general repressor of translation by forming
+            translationally inactive complexes. In vitro and in vivo studies
+            indicate that translation of this mRNA initiates exclusively at a
+            non-AUG (GUG) codon. Alternatively spliced transcript variants
+            encoding different isoforms of this gene have been described.
+            [provided by RefSeq, Jul 2008].
+            
+            Transcript Variant: This variant (1) encodes the longer isoform
+            (1). Both variants 1 and 3 encode the same isoform.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AK223548.1, BC043149.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2149398, SAMEA962346
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            non-AUG initiation codon :: PMID: 9049310, 15718103
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-80                DB072494.1         1-80
+            81-1988             AK223548.1         2-1909
+            1989-2528           DB272352.1         11-550
+            2529-3903           AK223548.1         2450-3824
+            3904-3911           AI362365.1         12-19               c
+FEATURES             Location/Qualifiers
+     source          1..3911
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11p15"
+     gene            1..3911
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /note="eukaryotic translation initiation factor 4 gamma 2"
+                     /db_xref="GeneID:1982"
+                     /db_xref="HGNC:HGNC:3297"
+                     /db_xref="MIM:602325"
+     exon            1..331
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    316..318
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /note="upstream in-frame stop codon"
+     exon            332..458
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     STS             394..616
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /standard_name="Eif4g2"
+                     /db_xref="UniSTS:474697"
+     CDS             418..3141
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     non-AUG (GUG) translation initiation codon; eIF-4-gamma 2;
+                     eukaryotic translation initiation factor 4G-like 1;
+                     death-associated protein 5; aging-associated protein 1;
+                     DAP-5; eIF4G 2; eIF-4G 2; eukaryotic translation
+                     initiation factor 4 gamma, 2"
+                     /codon_start=1
+                     /transl_except=(pos:418..420,aa:Met)
+                     /product="eukaryotic translation initiation factor 4 gamma
+                     2 isoform 1"
+                     /protein_id="NP_001409.3"
+                     /db_xref="GI:289577080"
+                     /db_xref="CCDS:CCDS31428.1"
+                     /db_xref="GeneID:1982"
+                     /db_xref="HGNC:HGNC:3297"
+                     /db_xref="MIM:602325"
+                     /translation="MESAIAEGGASRFSASSGGGGSRGAPQHYPKTAGNSEFLGKTPG
+                     QNAQKWIPARSTRRDDNSAANNSANEKERHDAIFRKVRGILNKLTPEKFDKLCLELLN
+                     VGVESKLILKGVILLIVDKALEEPKYSSLYAQLCLRLAEDAPNFDGPAAEGQPGQKQS
+                     TTFRRLLISKLQDEFENRTRNVDVYDKRENPLLPEEEEQRAIAKIKMLGNIKFIGELG
+                     KLDLIHESILHKCIKTLLEKKKRVQLKDMGEDLECLCQIMRTVGPRLDHERAKSLMDQ
+                     YFARMCSLMLSKELPARIRFLLQDTVELREHHWVPRKAFLDNGPKTINQIRQDAVKDL
+                     GVFIPAPMAQGMRSDFFLEGPFMPPRMKMDRDPLGGLADMFGQMPGSGIGTGPGVIQD
+                     RFSPTMGRHRSNQLFNGHGGHIMPPTQSQFGEMGGKFMKSQGLSQLYHNQSQGLLSQL
+                     QGQSKDMPPRFSKKGQLNADEISLRPAQSFLMNKNQVPKLQPQITMIPPSAQPPRTQT
+                     PPLGQTPQLGLKTNPPLIQEKPAKTSKKPPPSKEELLKLTETVVTEYLNSGNANEAVN
+                     GVREMRAPKHFLPEMLSKVIILSLDRSDEDKEKASSLISLLKQEGIATSDNFMQAFLN
+                     VLDQCPKLEVDIPLVKSYLAQFAARAIISELVSISELAQPLESGTHFPLFLLCLQQLA
+                     KLQDREWLTELFQQSKVNMQKMLPEIDQNKDRMLEILEGKGLSFLFPLLKLEKELLKQ
+                     IKLDPSPQTIYKWIKDNISPKLHVDKGFVNILMTSFLQYISSEVNPPSDETDSSSAPS
+                     KEQLEQEKQLLLSFKPVMQKFLHDHVDLQVSALYALQVHCYNSNFPKGMLLRFFVHFY
+                     DMEIIEEEAFLAWKEDITQEFPGKGKALFQVNQWLTWLETAEEEESEEEAD"
+     misc_feature    418..420
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylmethionine. {ECO:0000244|PubMed:19413330,
+                     ECO:0000244|PubMed:22223895, ECO:0000244|PubMed:22814378,
+                     ECO:0000269|PubMed:12665801}; propagated from
+                     UniProtKB/Swiss-Prot (P78344.1); acetylation site"
+     misc_feature    1600..1602
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:20068231};
+                     propagated from UniProtKB/Swiss-Prot (P78344.1);
+                     phosphorylation site"
+     misc_feature    1939..1941
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:19690332,
+                     ECO:0000244|PubMed:24275569}; propagated from
+                     UniProtKB/Swiss-Prot (P78344.1); phosphorylation site"
+     misc_feature    1957..1959
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:18669648};
+                     propagated from UniProtKB/Swiss-Prot (P78344.1);
+                     phosphorylation site"
+     misc_feature    3121..3123
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:20068231,
+                     ECO:0000244|PubMed:21406692}; propagated from
+                     UniProtKB/Swiss-Prot (P78344.1); phosphorylation site"
+     exon            459..524
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            525..665
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            666..768
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            769..900
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            901..967
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            968..1119
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1120..1230
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1231..1314
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1315..1413
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1414..1555
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1464..1942
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /standard_name="MARC_8851-8852:992359168:1"
+                     /db_xref="UniSTS:269950"
+     exon            1556..1716
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1717..1830
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1831..1956
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1922..2408
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /standard_name="MARC_8853-8854:992364778:1"
+                     /db_xref="UniSTS:269951"
+     exon            1957..2061
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2062..2277
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2278..2536
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2537..2741
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2742..2953
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2954..3075
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3076..3911
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     STS             3721..3899
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /standard_name="D11S3958"
+                     /db_xref="UniSTS:153674"
+     regulatory      3883..3888
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+     polyA_site      3903
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+     polyA_site      3911
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+ORIGIN      
+        1 gcagacggca accgggccgc tgattgggcg gcgaaggagc cattcgggga gactctggtg
+       61 ggttcggctg ccccaagagt gataagttcg gcttcagaca cgccttagcg ccagcagtga
+      121 gtcggagctc tatggaggtg gcagcgggta ccgagtggcg gctgcagcag cgactcctct
+      181 gagctgagtt tgaggccgtc cccgactcct tcctccccct tccctccccc ttttttttgt
+      241 tttccgttcc cctttcccct cccttcccta tccccgacga ccggatcctg aggaggcagc
+      301 tgcggtggca gctgctgagt tctcggtgaa ggtatttcat ttctcctgtc ccctcccctc
+      361 cccaccccat ctattaatat tattcttttg aagattcttc gttgtcaagc cgccaaagtg
+      421 gagagtgcga ttgcagaagg gggtgcttct cgtttcagtg cttcttcggg cggaggagga
+      481 agtaggggtg cacctcagca ctatcccaag actgctggca acagcgagtt cctggggaaa
+      541 accccagggc aaaacgctca gaaatggatt cctgcacgaa gcactagacg agatgacaac
+      601 tccgcagcaa acaactccgc aaacgaaaaa gaacgacatg atgcaatctt caggaaagta
+      661 agaggcatac taaataagct tactcctgaa aagtttgaca agctatgcct tgagctcctc
+      721 aatgtgggtg tagagtctaa actcatcctt aaaggggtca tactgctgat tgtggacaaa
+      781 gccctagaag agccaaagta tagctcactg tatgctcagc tatgtctgcg attggcagaa
+      841 gatgcaccaa actttgatgg cccagcagca gagggtcaac caggacagaa gcaaagcacc
+      901 acattcagac gcctcctaat ttccaaatta caagatgaat ttgaaaaccg aactagaaat
+      961 gttgatgtct atgataagcg tgaaaatccc ctcctccccg aggaggagga acagagagcc
+     1021 attgctaaga tcaagatgtt gggaaacatc aaattcattg gagagcttgg caagcttgat
+     1081 cttattcacg aatctatcct tcataagtgc atcaaaacac ttttggaaaa gaagaagaga
+     1141 gtccaactca aagatatggg agaggatttg gagtgcctct gtcagataat gaggacagtg
+     1201 ggacctagat tagaccatga acgagccaag tccttaatgg atcagtactt tgcccgaatg
+     1261 tgctccttga tgttaagtaa ggaattgcca gcaaggattc gtttcctgct gcaggatacc
+     1321 gtagagttgc gagaacacca ttgggttcct cgcaaggctt ttcttgacaa tggaccaaag
+     1381 acgatcaatc aaattcgtca agatgcagta aaagatctag gggtgtttat tcctgctcct
+     1441 atggctcaag ggatgagaag tgacttcttt ctggagggac cgttcatgcc acccaggatg
+     1501 aaaatggata gggacccact tggaggactt gctgatatgt ttggacaaat gccaggtagc
+     1561 ggaattggta ctggtccagg agttatccag gatagatttt cacccaccat gggacgtcat
+     1621 cgttcaaatc aactcttcaa tggccatggg ggacacatca tgcctcccac acaatcgcag
+     1681 tttggagaga tgggaggcaa gtttatgaaa agccaggggc taagccagct ctaccataac
+     1741 cagagtcagg gactcttatc ccagctgcaa ggacagtcga aggatatgcc acctcggttt
+     1801 tctaagaaag gacagcttaa tgcagatgag attagcctga ggcctgctca gtcgttccta
+     1861 atgaataaaa atcaagtgcc aaagcttcag ccccagataa ctatgattcc tcctagtgca
+     1921 caaccaccac gcactcaaac accacctctg ggacagacac ctcagcttgg tctcaaaact
+     1981 aatccaccgc ttatccagga aaagcctgcc aagaccagca aaaagccacc accgtcaaag
+     2041 gaagaactcc ttaaactaac tgaaactgtt gtgactgaat atctaaatag tggaaatgca
+     2101 aatgaggctg tcaatggtgt aagagaaatg agggctccta aacactttct tcctgagatg
+     2161 ttaagcaaag taatcatcct gtcactagat agaagcgatg aagataaaga aaaagcaagt
+     2221 tctttgatca gtttactcaa acaggaaggg atagccacaa gtgacaactt catgcaggct
+     2281 ttcctgaatg tattggacca gtgtcccaaa ctggaggttg acatcccttt ggtgaaatcc
+     2341 tatttagcac agtttgcagc tcgtgccatc atttcagagc tggtgagcat ttcagaacta
+     2401 gctcaaccac tagaaagtgg cacccatttt cctctcttcc tactttgtct tcagcagtta
+     2461 gctaaattac aagatcgaga atggttaaca gaactttttc aacaaagcaa ggtcaatatg
+     2521 cagaaaatgc tcccagaaat tgatcagaat aaggaccgca tgttggagat tttggaagga
+     2581 aagggactga gtttcttatt cccactcctc aaattggaga aggaactgtt gaagcaaata
+     2641 aagttggatc catcccctca aaccatatat aaatggatta aagataacat ctctcccaaa
+     2701 cttcatgtag ataaaggatt tgtgaacatc ttaatgacta gcttcttaca gtacatttct
+     2761 agtgaagtaa acccccccag cgatgaaaca gattcatcct ctgctccttc caaagaacag
+     2821 ttagagcagg aaaaacaact actactatct ttcaagccag taatgcagaa atttcttcat
+     2881 gatcacgttg atctacaagt cagtgccctg tatgctctcc aggtgcactg ctataacagc
+     2941 aacttcccaa aaggcatgtt acttcgcttt tttgtgcact tctatgacat ggaaattatt
+     3001 gaagaagaag ctttcttggc ttggaaagaa gatataaccc aagagtttcc gggaaaaggc
+     3061 aaggctttgt tccaggtgaa tcagtggcta acctggttag aaactgctga agaagaagaa
+     3121 tcagaggaag aagctgacta aagaaccagc caaagcctta aattgtgcaa aacatactgt
+     3181 tgctatgatg taactgcatt tgacctaacc actgcgaaaa ttcattccgc tgtaatgttt
+     3241 tcacaatatt taaagcagaa gcacgtcagt taggatttcc ttctgcataa ggtttttttg
+     3301 tagtgtaatg tcttaatcat agtctaccat caaatatttt aggagtatct ttaatgttta
+     3361 gatagtatat tagcagcatg caataattac atcataagtt ctcaagcaga ggcagtctat
+     3421 tgcaaggacc ttctttgctg ccagttatca taggctgttt taagttagaa aactgaatag
+     3481 caacactgaa tactgtagaa atgcactttg ctcagtaata cttgagttgt tgcaatattt
+     3541 gattatccat ttggttgtta cagaaaaatt cttaactgta attgatggtt gttgccgtaa
+     3601 tagtatattg cctgtatttc tacctctagt aatgggcttt atgtgctaga ttttaatatc
+     3661 cttgagcctg ggcaagtgca caagtctttt taaaagaaac atggtttact tgcacaaaac
+     3721 tgatcagttt tgagagatcg ttaatgccct tgaagtggtt tttgtgggtg tgaaacaaat
+     3781 ggtgagaatt tgaattggtc cctcctatta tagtattgaa attaagtcta cttaatttat
+     3841 caagtcatgt tcatgccctg attttatata cttgtatcta tcaataaaca ttgtgatact
+     3901 tgatgtagtg a
+//
+
+LOCUS       NM_001042559            3797 bp    mRNA    linear   PRI 05-FEB-2016
+DEFINITION  Homo sapiens eukaryotic translation initiation factor 4 gamma 2
+            (EIF4G2), transcript variant 2, mRNA.
+ACCESSION   NM_001042559
+VERSION     NM_001042559.2  GI:111494226
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3797)
+  AUTHORS   Liberman N, Gandin V, Svitkin YV, David M, Virgili G, Jaramillo M,
+            Holcik M, Nagar B, Kimchi A and Sonenberg N.
+  TITLE     DAP5 associates with eIF2beta and eIF4AI to promote Internal
+            Ribosome Entry Site driven translation
+  JOURNAL   Nucleic Acids Res. 43 (7), 3764-3775 (2015)
+   PUBMED   25779044
+  REMARK    GeneRIF: findings provide the first mechanistic insights into the
+            function of DAP5 as a selective regulator of cap-independent
+            translation
+REFERENCE   2  (bases 1 to 3797)
+  AUTHORS   Katsogiannou M, Andrieu C, Baylot V, Baudot A, Dusetti NJ, Gayet O,
+            Finetti P, Garrido C, Birnbaum D, Bertucci F, Brun C and Rocchi P.
+  TITLE     The functional landscape of Hsp27 reveals new cellular processes
+            such as DNA repair and alternative splicing and proposes novel
+            anticancer targets
+  JOURNAL   Mol. Cell Proteomics 13 (12), 3585-3601 (2014)
+   PUBMED   25277244
+REFERENCE   3  (bases 1 to 3797)
+  AUTHORS   Mazan-Mamczarz K, Zhao XF, Dai B, Steinhardt JJ, Peroutka RJ, Berk
+            KL, Landon AL, Sadowska M, Zhang Y, Lehrmann E, Becker KG,
+            Shaknovich R, Liu Z and Gartenhaus RB.
+  TITLE     Down-regulation of eIF4GII by miR-520c-3p represses diffuse large B
+            cell lymphoma development
+  JOURNAL   PLoS Genet. 10 (1), E1004105 (2014)
+   PUBMED   24497838
+  REMARK    GeneRIF: Our results provide evidence that the tumor suppressor
+            effect of miR-520c-3p is mediated through repression of translation
+            while inducing senescence and that eIF4GII is a key effector of
+            this anti-tumor activity.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 3797)
+  AUTHORS   Weingarten-Gabbay S, Khan D, Liberman N, Yoffe Y, Bialik S, Das S,
+            Oren M and Kimchi A.
+  TITLE     The translation initiation factor DAP5 promotes IRES-driven
+            translation of p53 mRNA
+  JOURNAL   Oncogene 33 (5), 611-618 (2014)
+   PUBMED   23318444
+  REMARK    GeneRIF: DAP5, a translation initiation factor shown to positively
+            regulate the translation of various internal ribosome entry sites
+            containing mRNAs, promotes internal ribosome entry site-driven
+            translation of p53 mRNA.
+REFERENCE   5  (bases 1 to 3797)
+  AUTHORS   Takahashi K, Maruyama M, Tokuzawa Y, Murakami M, Oda Y, Yoshikane
+            N, Makabe KW, Ichisaka T and Yamanaka S.
+  TITLE     Evolutionarily conserved non-AUG translation initiation in
+            NAT1/p97/DAP5 (EIF4G2)
+  JOURNAL   Genomics 85 (3), 360-371 (2005)
+   PUBMED   15718103
+  REMARK    GeneRIF: Exclusive use of a GUG translation initiation codon is
+            conserved in human, chicken, Xenopus, and zebrafish.
+REFERENCE   6  (bases 1 to 3797)
+  AUTHORS   Pyronnet S, Imataka H, Gingras AC, Fukunaga R, Hunter T and
+            Sonenberg N.
+  TITLE     Human eukaryotic translation initiation factor 4G (eIF4G) recruits
+            mnk1 to phosphorylate eIF4E
+  JOURNAL   EMBO J. 18 (1), 270-279 (1999)
+   PUBMED   9878069
+REFERENCE   7  (bases 1 to 3797)
+  AUTHORS   Imataka H and Sonenberg N.
+  TITLE     Human eukaryotic translation initiation factor 4G (eIF4G) possesses
+            two separate and independent binding sites for eIF4A
+  JOURNAL   Mol. Cell. Biol. 17 (12), 6940-6947 (1997)
+   PUBMED   9372926
+REFERENCE   8  (bases 1 to 3797)
+  AUTHORS   Levy-Strumpf N, Deiss LP, Berissi H and Kimchi A.
+  TITLE     DAP-5, a novel homolog of eukaryotic translation initiation factor
+            4G isolated as a putative modulator of gamma interferon-induced
+            programmed cell death
+  JOURNAL   Mol. Cell. Biol. 17 (3), 1615-1625 (1997)
+   PUBMED   9032289
+REFERENCE   9  (bases 1 to 3797)
+  AUTHORS   Imataka H, Olsen HS and Sonenberg N.
+  TITLE     A new translational regulator with homology to eukaryotic
+            translation initiation factor 4G
+  JOURNAL   EMBO J. 16 (4), 817-825 (1997)
+   PUBMED   9049310
+  REMARK    GeneRIF: translation starts exclusively at a non-AUG translation
+            initiation codon (GUG).
+REFERENCE   10 (bases 1 to 3797)
+  AUTHORS   Shaughnessy JD Jr, Jenkins NA and Copeland NG.
+  TITLE     cDNA cloning, expression analysis, and chromosomal localization of
+            a gene with high homology to wheat eIF-(iso)4F and mammalian eIF-4G
+  JOURNAL   Genomics 39 (2), 192-197 (1997)
+   PUBMED   9027506
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DB072494.1, BC111548.1,
+            DB272352.1 and AI362365.1.
+            On Aug 8, 2006 this sequence version replaced gi:110630017.
+            
+            Summary: Translation initiation is mediated by specific recognition
+            of the cap structure by eukaryotic translation initiation factor 4F
+            (eIF4F), which is a cap binding protein complex that consists of
+            three subunits: eIF4A, eIF4E and eIF4G. The protein encoded by this
+            gene shares similarity with the C-terminal region of eIF4G that
+            contains the binding sites for eIF4A and eIF3; eIF4G, in addition,
+            contains a binding site for eIF4E at the N-terminus. Unlike eIF4G,
+            which supports cap-dependent and independent translation, this gene
+            product functions as a general repressor of translation by forming
+            translationally inactive complexes. In vitro and in vivo studies
+            indicate that translation of this mRNA initiates exclusively at a
+            non-AUG (GUG) codon. Alternatively spliced transcript variants
+            encoding different isoforms of this gene have been described.
+            [provided by RefSeq, Jul 2008].
+            
+            Transcript Variant: This variant (2) lacks an alternate in-frame
+            exon in the central coding region, compared to variant 1, resulting
+            in a shorter isoform (2), compared to isoform 1.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            CDS exon combination :: BC111548.1 [ECO:0000331]
+            RNAseq introns       :: mixed/partial sample support SAMEA1965299,
+                                    SAMEA1966682 [ECO:0000350]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            non-AUG initiation codon :: PMID: 9049310, 15718103
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-332               DB072494.1         1-332
+            333-1874            BC111548.1         6-1547
+            1875-2414           DB272352.1         11-550
+            2415-3572           BC111548.1         2088-3245
+            3573-3797           AI362365.1         12-236              c
+FEATURES             Location/Qualifiers
+     source          1..3797
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11p15"
+     gene            1..3797
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /note="eukaryotic translation initiation factor 4 gamma 2"
+                     /db_xref="GeneID:1982"
+                     /db_xref="HGNC:HGNC:3297"
+                     /db_xref="MIM:602325"
+     exon            1..331
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    316..318
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /note="upstream in-frame stop codon"
+     exon            332..458
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     STS             394..616
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /standard_name="Eif4g2"
+                     /db_xref="UniSTS:474697"
+     CDS             418..3027
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /note="isoform 2 is encoded by transcript variant 2;
+                     non-AUG (GUG) translation initiation codon; eIF-4-gamma 2;
+                     eukaryotic translation initiation factor 4G-like 1;
+                     death-associated protein 5; aging-associated protein 1;
+                     DAP-5; eIF4G 2; eIF-4G 2; eukaryotic translation
+                     initiation factor 4 gamma, 2"
+                     /codon_start=1
+                     /transl_except=(pos:418..420,aa:Met)
+                     /product="eukaryotic translation initiation factor 4 gamma
+                     2 isoform 2"
+                     /protein_id="NP_001036024.3"
+                     /db_xref="GI:289577114"
+                     /db_xref="CCDS:CCDS41618.1"
+                     /db_xref="GeneID:1982"
+                     /db_xref="HGNC:HGNC:3297"
+                     /db_xref="MIM:602325"
+                     /translation="MESAIAEGGASRFSASSGGGGSRGAPQHYPKTAGNSEFLGKTPG
+                     QNAQKWIPARSTRRDDNSAANNSANEKERHDAIFRKVRGILNKLTPEKFDKLCLELLN
+                     VGVESKLILKGVILLIVDKALEEPKYSSLYAQLCLRLAEDAPNFDGPAAEGQPGQKQS
+                     TTFRRLLISKLQDEFENRTRNVDVYDKRENPLLPEEEEQRAIAKIKMLGNIKFIGELG
+                     KLDLIHESILHKCIKTLLEKKKRVQLKDMGEDLECLCQIMRTVGPRLDHERAKSLMDQ
+                     YFARMCSLMLSKELPARIRFLLQDTVELREHHWVPRKAFLDNGPKTINQIRQDAVKDL
+                     GVFIPAPMAQGMRSDFFLEGPFMPPRMKMDRDPLGGLADMFGQMPGSGIGTGPGVIQD
+                     RFSPTMGRHRSNQLFNGHGGHIMPPTQSQFGEMGGKFMKSQISLRPAQSFLMNKNQVP
+                     KLQPQITMIPPSAQPPRTQTPPLGQTPQLGLKTNPPLIQEKPAKTSKKPPPSKEELLK
+                     LTETVVTEYLNSGNANEAVNGVREMRAPKHFLPEMLSKVIILSLDRSDEDKEKASSLI
+                     SLLKQEGIATSDNFMQAFLNVLDQCPKLEVDIPLVKSYLAQFAARAIISELVSISELA
+                     QPLESGTHFPLFLLCLQQLAKLQDREWLTELFQQSKVNMQKMLPEIDQNKDRMLEILE
+                     GKGLSFLFPLLKLEKELLKQIKLDPSPQTIYKWIKDNISPKLHVDKGFVNILMTSFLQ
+                     YISSEVNPPSDETDSSSAPSKEQLEQEKQLLLSFKPVMQKFLHDHVDLQVSALYALQV
+                     HCYNSNFPKGMLLRFFVHFYDMEIIEEEAFLAWKEDITQEFPGKGKALFQVNQWLTWL
+                     ETAEEEESEEEAD"
+     exon            459..524
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            525..665
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            666..768
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            769..900
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            901..967
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            968..1119
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1120..1230
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1231..1314
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1315..1413
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1414..1555
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1464..1828
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /standard_name="MARC_8851-8852:992359168:1"
+                     /db_xref="UniSTS:269950"
+     exon            1556..1716
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1717..1842
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1808..2294
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /standard_name="MARC_8853-8854:992364778:1"
+                     /db_xref="UniSTS:269951"
+     exon            1843..1947
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1948..2163
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2164..2422
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2423..2627
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2628..2839
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2840..2961
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2962..3797
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /inference="alignment:Splign:1.39.8"
+     STS             3607..3785
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+                     /standard_name="D11S3958"
+                     /db_xref="UniSTS:153674"
+     regulatory      3769..3774
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+     polyA_site      3789
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+     polyA_site      3797
+                     /gene="EIF4G2"
+                     /gene_synonym="AAG1; DAP5; NAT1; P97"
+ORIGIN      
+        1 gcagacggca accgggccgc tgattgggcg gcgaaggagc cattcgggga gactctggtg
+       61 ggttcggctg ccccaagagt gataagttcg gcttcagaca cgccttagcg ccagcagtga
+      121 gtcggagctc tatggaggtg gcagcgggta ccgagtggcg gctgcagcag cgactcctct
+      181 gagctgagtt tgaggccgtc cccgactcct tcctccccct tccctccccc ttttttttgt
+      241 tttccgttcc cctttcccct cccttcccta tccccgacga ccggatcctg aggaggcagc
+      301 tgcggtggca gctgctgagt tctcggtgaa ggtatttcat ttctcctgtc ccctcccctc
+      361 cccaccccat ctattaatat tattcttttg aagattcttc gttgtcaagc cgccaaagtg
+      421 gagagtgcga ttgcagaagg gggtgcttct cgtttcagtg cttcttcggg cggaggagga
+      481 agtaggggtg cacctcagca ctatcccaag actgctggca acagcgagtt cctggggaaa
+      541 accccagggc aaaacgctca gaaatggatt cctgcacgaa gcactagacg agatgacaac
+      601 tccgcagcaa acaactccgc aaacgaaaaa gaacgacatg atgcaatctt caggaaagta
+      661 agaggcatac taaataagct tactcctgaa aagtttgaca agctatgcct tgagctcctc
+      721 aatgtgggtg tagagtctaa actcatcctt aaaggggtca tactgctgat tgtggacaaa
+      781 gccctagaag agccaaagta tagctcactg tatgctcagc tatgtctgcg attggcagaa
+      841 gatgcaccaa actttgatgg cccagcagca gagggtcaac caggacagaa gcaaagcacc
+      901 acattcagac gcctcctaat ttccaaatta caagatgaat ttgaaaaccg aactagaaat
+      961 gttgatgtct atgataagcg tgaaaatccc ctcctccccg aggaggagga acagagagcc
+     1021 attgctaaga tcaagatgtt gggaaacatc aaattcattg gagagcttgg caagcttgat
+     1081 cttattcacg aatctatcct tcataagtgc atcaaaacac ttttggaaaa gaagaagaga
+     1141 gtccaactca aagatatggg agaggatttg gagtgcctct gtcagataat gaggacagtg
+     1201 ggacctagat tagaccatga acgagccaag tccttaatgg atcagtactt tgcccgaatg
+     1261 tgctccttga tgttaagtaa ggaattgcca gcaaggattc gtttcctgct gcaggatacc
+     1321 gtagagttgc gagaacacca ttgggttcct cgcaaggctt ttcttgacaa tggaccaaag
+     1381 acgatcaatc aaattcgtca agatgcagta aaagatctag gggtgtttat tcctgctcct
+     1441 atggctcaag ggatgagaag tgacttcttt ctggagggac cgttcatgcc acccaggatg
+     1501 aaaatggata gggacccact tggaggactt gctgatatgt ttggacaaat gccaggtagc
+     1561 ggaattggta ctggtccagg agttatccag gatagatttt cacccaccat gggacgtcat
+     1621 cgttcaaatc aactcttcaa tggccatggg ggacacatca tgcctcccac acaatcgcag
+     1681 tttggagaga tgggaggcaa gtttatgaaa agccagatta gcctgaggcc tgctcagtcg
+     1741 ttcctaatga ataaaaatca agtgccaaag cttcagcccc agataactat gattcctcct
+     1801 agtgcacaac caccacgcac tcaaacacca cctctgggac agacacctca gcttggtctc
+     1861 aaaactaatc caccgcttat ccaggaaaag cctgccaaga ccagcaaaaa gccaccaccg
+     1921 tcaaaggaag aactccttaa actaactgaa actgttgtga ctgaatatct aaatagtgga
+     1981 aatgcaaatg aggctgtcaa tggtgtaaga gaaatgaggg ctcctaaaca ctttcttcct
+     2041 gagatgttaa gcaaagtaat catcctgtca ctagatagaa gcgatgaaga taaagaaaaa
+     2101 gcaagttctt tgatcagttt actcaaacag gaagggatag ccacaagtga caacttcatg
+     2161 caggctttcc tgaatgtatt ggaccagtgt cccaaactgg aggttgacat ccctttggtg
+     2221 aaatcctatt tagcacagtt tgcagctcgt gccatcattt cagagctggt gagcatttca
+     2281 gaactagctc aaccactaga aagtggcacc cattttcctc tcttcctact ttgtcttcag
+     2341 cagttagcta aattacaaga tcgagaatgg ttaacagaac tttttcaaca aagcaaggtc
+     2401 aatatgcaga aaatgctccc agaaattgat cagaataagg accgcatgtt ggagattttg
+     2461 gaaggaaagg gactgagttt cttattccca ctcctcaaat tggagaagga actgttgaag
+     2521 caaataaagt tggatccatc ccctcaaacc atatataaat ggattaaaga taacatctct
+     2581 cccaaacttc atgtagataa aggatttgtg aacatcttaa tgactagctt cttacagtac
+     2641 atttctagtg aagtaaaccc ccccagcgat gaaacagatt catcctctgc tccttccaaa
+     2701 gaacagttag agcaggaaaa acaactacta ctatctttca agccagtaat gcagaaattt
+     2761 cttcatgatc acgttgatct acaagtcagt gccctgtatg ctctccaggt gcactgctat
+     2821 aacagcaact tcccaaaagg catgttactt cgcttttttg tgcacttcta tgacatggaa
+     2881 attattgaag aagaagcttt cttggcttgg aaagaagata taacccaaga gtttccggga
+     2941 aaaggcaagg ctttgttcca ggtgaatcag tggctaacct ggttagaaac tgctgaagaa
+     3001 gaagaatcag aggaagaagc tgactaaaga accagccaaa gccttaaatt gtgcaaaaca
+     3061 tactgttgct atgatgtaac tgcatttgac ctaaccactg cgaaaattca ttccgctgta
+     3121 atgttttcac aatatttaaa gcagaagcac gtcagttagg atttccttct gcataaggtt
+     3181 tttttgtagt gtaatgtctt aatcatagtc taccatcaaa tattttagga gtatctttaa
+     3241 tgtttagata gtatattagc agcatgcaat aattacatca taagttctca agcagaggca
+     3301 gtctattgca aggaccttct ttgctgccag ttatcatagg ctgttttaag ttagaaaact
+     3361 gaatagcaac actgaatact gtagaaatgc actttgctca gtaatacttg agttgttgca
+     3421 atatttgatt atccatttgg ttgttacaga aaaattctta actgtaattg atggttgttg
+     3481 ccgtaatagt atattgcctg tatttctacc tctagtaatg ggctttatgt gctagatttt
+     3541 aatatccttg agcctgggca agtgcacaag tctttttaaa agaaacatgg tttacttgca
+     3601 caaaactgat cagttttgag agatcgttaa tgcccttgaa gtggtttttg tgggtgtgaa
+     3661 acaaatggtg agaatttgaa ttggtccctc ctattatagt attgaaatta agtctactta
+     3721 atttatcaag tcatgttcat gccctgattt tatatacttg tatctatcaa taaacattgt
+     3781 gatacttgat gtagtga
+//
+
+LOCUS       NM_001082379            3815 bp    mRNA    linear   MAM 31-DEC-2015
+DEFINITION  Oryctolagus cuniculus eukaryotic translation initiation factor 4
+            gamma, 2 (EIF4G2), mRNA.
+ACCESSION   NM_001082379
+VERSION     NM_001082379.2  GI:558757400
+KEYWORDS    RefSeq.
+SOURCE      Oryctolagus cuniculus (rabbit)
+  ORGANISM  Oryctolagus cuniculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Oryctolagus.
+REFERENCE   1  (bases 1 to 3815)
+  AUTHORS   Takahashi K, Maruyama M, Tokuzawa Y, Murakami M, Oda Y, Yoshikane
+            N, Makabe KW, Ichisaka T and Yamanaka S.
+  TITLE     Evolutionarily conserved non-AUG translation initiation in
+            NAT1/p97/DAP5 (EIF4G2)
+  JOURNAL   Genomics 85 (3), 360-371 (2005)
+   PUBMED   15718103
+REFERENCE   2  (bases 1 to 3815)
+  AUTHORS   Yamanaka S, Poksay KS, Arnold KS and Innerarity TL.
+  TITLE     A novel translational repressor mRNA is edited extensively in
+            livers containing tumors caused by the transgene expression of the
+            apoB mRNA-editing enzyme
+  JOURNAL   Genes Dev. 11 (3), 321-333 (1997)
+   PUBMED   9030685
+REFERENCE   3  (bases 1 to 3815)
+  AUTHORS   Yamanaka S, Balestra ME, Ferrell LD, Fan J, Arnold KS, Taylor S,
+            Taylor JM and Innerarity TL.
+  TITLE     Apolipoprotein B mRNA-editing protein induces hepatocellular
+            carcinoma and dysplasia in transgenic animals
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 92 (18), 8483-8487 (1995)
+   PUBMED   7667315
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            U76113.1, EB377479.1, EB375860.1, EB381820.1, DN886499.1 and
+            EB377478.1.
+            On Nov 22, 2013 this sequence version replaced gi:126723039.
+            
+            ##RefSeq-Attributes-START##
+            non-AUG initiation codon :: inferred from conservation
+            ##RefSeq-Attributes-END##
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: GBCA01005185.1, GBCD01002069.1
+                                           [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA1876818, SAMEA1876819
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-1038              U76113.1           1-1038
+            1039-1250           EB377479.1         503-714
+            1251-1941           EB375860.1         30-720
+            1942-2380           EB381820.1         293-731
+            2381-3175           DN886499.1         1-795
+            3176-3815           EB377478.1         2-641               c
+FEATURES             Location/Qualifiers
+     source          1..3815
+                     /organism="Oryctolagus cuniculus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9986"
+                     /chromosome="1"
+                     /map="1"
+     gene            1..3815
+                     /gene="EIF4G2"
+                     /gene_synonym="NAT1"
+                     /note="eukaryotic translation initiation factor 4 gamma,
+                     2"
+                     /db_xref="GeneID:100009236"
+     misc_feature    205..207
+                     /gene="EIF4G2"
+                     /gene_synonym="NAT1"
+                     /note="upstream in-frame stop codon"
+     STS             283..505
+                     /gene="EIF4G2"
+                     /gene_synonym="NAT1"
+                     /standard_name="Eif4g2"
+                     /db_xref="UniSTS:474697"
+     CDS             307..3030
+                     /gene="EIF4G2"
+                     /gene_synonym="NAT1"
+                     /exception="alternative start codon"
+                     /note="non-AUG (GUG) translation initiation codon;
+                     translation repressor NAT1; p97; eIF4G 2; eIF-4G 2;
+                     eIF-4-gamma 2; novel APOBEC-1 target 1"
+                     /codon_start=1
+                     /transl_except=(pos:307..309,aa:Met)
+                     /product="eukaryotic translation initiation factor 4 gamma
+                     2"
+                     /protein_id="NP_001075848.2"
+                     /db_xref="GI:558757401"
+                     /db_xref="GeneID:100009236"
+                     /translation="MESAIAEGGASRFSASSGGGGSRGAPQHYPKTAGNSEFLGKTPG
+                     QNAQKWIPARSTRRDDNSAANNSANEKERHDAIFRKVRGILNKLTPEKFDKLCLELLN
+                     VGVESKLILKGVILLIVDKALEEPKYSSLYAQLCLRLAEDAPNFDGPAAEGQPGQKQS
+                     TTFRRLLISKLQDEFENRTRNVDVYDKRENPLLPEEEEQRAIAKIKMLGNIKFIGELG
+                     KLDLIHESILHKCIKTLLEKKKRVQLKDMGEDLECLCQIMRTVGPRLDHERAKSLMDQ
+                     YFARMCSLMLSKELPARIRFLLQDTVELREHHWVPRKAFLDNGPKTINQIRQDAVKDL
+                     GVFIPAPMAQGMRSDFFLEGPFMPPRMKMDRDPLGGLADMFGQMPGSGIGTGPGVIQD
+                     RFSPTMGRHRSNQLFNGHGGHIMPPTQSQFGEMGGKFMKSQGLSQLYHNQSQGLLSQL
+                     QGQSKDMPPRFSKKGQLNADEISLRPAQSFLMNKNQVPKLQPQITMIPPSAQPPRTQT
+                     PPLGQTPQLGLKTNPPLIQEKPAKTSKKPPPSKEELLKLTETVVTEYLNSGNANEAVN
+                     GVKEMRAPKHFLPEMLSKVIILSLDRSDEDKEKASSLISLLKQEGVATSDNFMQAFLN
+                     VLDQCPKLEVDIPLVKSYLAQFAARAIISELVSISELAQPLESGTHFPLFLLCLQQLA
+                     KLQDREWLTELFQQSKVNMQKMLPEIDQNKDRMLEILEGKGLSFLFPLLKLEKELLKQ
+                     IKLDPSPQTIYKWIKDNISPKLHVDKGFVNILMTSFLQYISSEVNPPSDETDSSSAPS
+                     KEQLEQEKQLLLSFKPVMQKFLHDHVDLQVSALYALQVHCYNSNFPKGMLLRFFVHFY
+                     DMEIIEEEAFLAWKEDITQEFPGKGKALFQVNQWLTWLETAEEEESEEEAD"
+     misc_feature    307..309
+                     /gene="EIF4G2"
+                     /gene_synonym="NAT1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylmethionine. {ECO:0000250|UniProtKB:P78344};
+                     propagated from UniProtKB/Swiss-Prot (P79398.1);
+                     acetylation site"
+     misc_feature    1489..1491
+                     /gene="EIF4G2"
+                     /gene_synonym="NAT1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250}; propagated from
+                     UniProtKB/Swiss-Prot (P79398.1); phosphorylation site"
+     misc_feature    1828..1830
+                     /gene="EIF4G2"
+                     /gene_synonym="NAT1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000250|UniProtKB:P78344};
+                     propagated from UniProtKB/Swiss-Prot (P79398.1);
+                     phosphorylation site"
+     misc_feature    1846..1848
+                     /gene="EIF4G2"
+                     /gene_synonym="NAT1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000250}; propagated from
+                     UniProtKB/Swiss-Prot (P79398.1); phosphorylation site"
+     misc_feature    3010..3012
+                     /gene="EIF4G2"
+                     /gene_synonym="NAT1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250}; propagated from
+                     UniProtKB/Swiss-Prot (P79398.1); phosphorylation site"
+     STS             2730..3047
+                     /gene="EIF4G2"
+                     /gene_synonym="NAT1"
+                     /standard_name="MARC_1105-1106:991931059:3"
+                     /db_xref="UniSTS:230849"
+     STS             3615..3793
+                     /gene="EIF4G2"
+                     /gene_synonym="NAT1"
+                     /standard_name="D11S3958"
+                     /db_xref="UniSTS:153674"
+ORIGIN      
+        1 gagcagtgag tcggagctct atggaggtgg ccgcgggaac cgggtggtgg ctgcagcagc
+       61 gactcctctg agctgagagt ttcaagccgt ccccgactcc ttccttcccc ttccctcccc
+      121 cttttttgtt ttccgttccc cttccccctc ccttccccgt ccccgacgac cggatcctga
+      181 gaaggcagct gcggtggcag ctgctgagtt cttggtgaag gtttttcatt tctcccatcc
+      241 cctcccctcc ccaccctatc cattaatatt attcttttga agattcttcg ttgtcaagcc
+      301 gccaaagtgg agagtgcgat tgcagaaggg ggtgcttctc gtttcagtgc ttcttcgggc
+      361 ggaggaggaa gtaggggtgc acctcagcac tatcccaaga ctgctggcaa cagcgagttc
+      421 ctggggaaaa ccccagggca aaacgctcag aaatggattc ctgcacgaag cactagacga
+      481 gatgacaact ccgcagcaaa caactccgca aatgaaaaag aacgacatga tgcaatcttc
+      541 aggaaagtaa gaggcatact aaataagctt actcctgaaa agtttgacaa gctatgcctt
+      601 gagctcctca atgtgggtgt agagtctaaa ctcatcctta aaggggtcat actgctgatt
+      661 gtggacaaag ccctagaaga gccaaagtat agctcactgt atgctcagct atgtctgcga
+      721 ttggcagaag atgcaccaaa ctttgatggc ccagcagcag agggtcagcc aggacagaag
+      781 caaagcacaa cattcagacg cctcctaatt tccaaattac aagatgaatt tgaaaatcga
+      841 accagaaatg ttgatgtcta tgataagcgt gaaaatcccc tcctccccga ggaggaggaa
+      901 cagagagcca ttgctaagat caagatgttg ggaaacatca aattcattgg agaacttgga
+      961 aagcttgatc ttattcatga atctatcctt cataagtgca tcaaaacact tttggaaaag
+     1021 aagaagagag tccaactcaa agatatggga gaggatttgg agtgcctctg tcagataatg
+     1081 aggacagtgg gaccgagatt agaccatgaa cgagccaagt ccttaatgga tcagtacttt
+     1141 gcccggatgt gctccttgat gttaagtaag gaattgccag cgaggattcg tttcctgctg
+     1201 caggataccg tagagttgcg agaacaccat tgggttcctc gcaaggcttt tcttgacaat
+     1261 ggaccaaaga cgatcaatca aatccgtcaa gatgcagtga aagatctagg agtgtttatt
+     1321 cctgctccta tggctcaagg gatgagaagt gacttctttc tggagggacc gttcatgcca
+     1381 cccaggatga aaatggacag ggacccactt ggagggcttg ctgacatgtt tggacagatg
+     1441 ccaggtagcg gaattggtac tggtccagga gttatccagg atagattttc acccaccatg
+     1501 ggacgacatc gttcaaatca actcttcaat ggccatgggg gacacatcat gcctcccact
+     1561 cagtcgcagt ttggagagat gggaggcaag tttatgaaaa gccaggggct aagccagctc
+     1621 taccataacc agagtcaggg actcttatcc cagctgcaag gacagtcgaa ggatatgcca
+     1681 cctcggtttt ctaagaaagg acagcttaat gcagatgaga ttagcctgag gcctgctcag
+     1741 tcgttcctaa tgaataaaaa tcaagtgcca aaacttcagc cccagataac tatgattcct
+     1801 cctagtgcac agccaccacg cacacaaaca ccaccgctgg gacagacacc tcagctcggg
+     1861 ctcaagacaa atccaccact tatccaggaa aagcctgcca agaccagcaa aaaaccacca
+     1921 ccatcaaagg aagagctgct taaactcact gaaactgttg tgacagaata tctgaatagt
+     1981 ggaaatgcaa atgaggctgt caatggtgta aaagaaatga gggctcctaa acactttctt
+     2041 cctgagatgt taagcaaagt catcatcctg tcactggaca gaagtgatga agataaggaa
+     2101 aaagcaagtt ctttgatcag tttactcaaa caggaaggag tagccacaag tgacaacttt
+     2161 atgcaggctt tcctgaacgt attggaccag tgccccaaac tggaggttga catccccttg
+     2221 gtgaaatcat atttagcaca gtttgcagct cgtgccatca tttcagagct ggtgagcatt
+     2281 tcagaactgg ctcaaccact ggaaagtggc acccattttc ctctcttctt actttgtctt
+     2341 cagcaattag ctaaattaca agatcgggaa tggttaacag aactttttca acaaagcaag
+     2401 gtcaatatgc agaaaatgct cccagaaatt gatcagaata aggaccgcat gttggagatt
+     2461 ttggaaggaa agggactgag tttcttattc ccactcctca aattggagaa ggaactgttg
+     2521 aagcagataa agttggaccc atcccctcaa accatatata aatggattaa agataacatc
+     2581 tctcccaaac ttcatgtaga taaaggattt gtgaacatct taatgactag cttcttacag
+     2641 tatatttcta gtgaagtaaa cccacccagc gatgaaacag attcttcctc tgctccttcc
+     2701 aaagaacagt tagagcagga gaaacaactg ctgctttcct tcaagccagt gatgcagaaa
+     2761 ttccttcacg atcacgtgga tctccaggtc agcgccctgt atgctcttca ggtgcactgc
+     2821 tacaacagca acttcccaaa aggcatgtta ctccgctttt tcgttcactt ctacgacatg
+     2881 gaaataatag aggaagaagc tttcttggct tggaaagaag atataaccca agagtttccg
+     2941 ggaaagggca aggctttgtt ccaggtgaat caatggctaa cctggctaga aaccgctgaa
+     3001 gaagaagaat ctgaggaaga agctgactaa agaaccagcc aaagccttaa attgtgcaaa
+     3061 acatactgtt gctatggtgt aactgcattt gacctaacca ctgcgaaaat tcattccgct
+     3121 gtaatgtttt cacaatattt aaagcagaag cacgtcagat aggatttcct tctgcgtaag
+     3181 gtttttttgt agtgtaatgt cttaatcata gtctaccatc caatatctta ggagtatctt
+     3241 taatgtttag atagtatatt agcagcatgc aataattaca tcctgagttc tcaagcagag
+     3301 gcagtctatt gcaaggacct tctttgctgc cagttaccat aggctgtttt aagttagcta
+     3361 aaaaacctga atagcaacac tgaatactgt agaaatgcac tttgctcagt aatacttgag
+     3421 ttgttgcaat atttgattat ccatttggtt gttacagaaa aattcttaac tgtaattgat
+     3481 ggttgttgcc gtaatagtat attgcctgta tttctacctc tagtcatggg ctttatgtgc
+     3541 tagattttaa tatccttgag cctgggcaag tgcacaagtc tttttaaaag aaacatggtt
+     3601 tacttgcaca aaactgatca gttttgagag atcgttaatg cccttgaagt ggtttttgtg
+     3661 ggtgtgaaac aaatggtgag aatttgaatt ggtccctctt attatagtat tgaaattaag
+     3721 tctacttaat ttatcaagtc atgttcatgc cctgatttta tatacttgta tctatcaata
+     3781 aacattgtga tacttgaaaa aaaaaaaaaa aaaaa
+//
+
